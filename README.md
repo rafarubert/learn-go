@@ -25,7 +25,7 @@
     go version
 
 ## Run
-    go run say_hello.go
+    go run [FILE].go
 
 ## Run Tests
     go test
